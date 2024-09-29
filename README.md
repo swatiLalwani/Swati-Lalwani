@@ -29,5 +29,6 @@ Seaborn, SciPy, Macros, dplyr, ggplot, Tidy Verse, Regression, Probability, ML A
 **Socials**
 
 Email:-swati.lalwani1214@gmail.com
+
 LinkedIn:-www.linkedin.com/in/swatilalwani1404 
 
